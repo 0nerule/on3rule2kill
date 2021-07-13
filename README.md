@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **@on3rule2kill**
 - 👀 I’m interested in information security
-- 🌱 I’m currently learning Advanced AV evasion
+- 🌱 I’m currently learning Advanced AV evasion and offensive C#
 
 
 <!---
